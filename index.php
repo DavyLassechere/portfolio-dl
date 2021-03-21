@@ -10,7 +10,7 @@
     <body>
         <header> Maintenance </header>
         <main>
-    Site indisponible pour le moment
+    Site indisponible pour le moment.
         </main>
         <footer>
     

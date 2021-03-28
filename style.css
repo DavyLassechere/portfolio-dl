@@ -1,0 +1,28 @@
+body {
+  background: #c0dbe3;
+}
+
+.container {
+  margin: 0em auto;
+  margin-top:-3.5em;
+	position: relative;
+}
+
+.container svg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Animation Elements*/
+.crane-line-one {}
+.crane-line-two {}
+.crane-knot {}
+
+.star-piece {}
+.star-cut {opacity: 0;}
+.star-shadow {opacity: .35}
+
+.roller {}
+.roller-fold {}
+.roller-fold-shadow {opacity:0.08}
